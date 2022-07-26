@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **jakeschlegel86/jakeschlegel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
